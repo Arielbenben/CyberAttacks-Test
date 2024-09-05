@@ -1,0 +1,14 @@
+C:\Users\relbh\source\repos\DefencesCyberTest\DefencesCyberTest\bin\Debug\net8.0\DefencesCyberTest.exe
+C:\Users\relbh\source\repos\DefencesCyberTest\DefencesCyberTest\bin\Debug\net8.0\DefencesCyberTest.deps.json
+C:\Users\relbh\source\repos\DefencesCyberTest\DefencesCyberTest\bin\Debug\net8.0\DefencesCyberTest.runtimeconfig.json
+C:\Users\relbh\source\repos\DefencesCyberTest\DefencesCyberTest\bin\Debug\net8.0\DefencesCyberTest.dll
+C:\Users\relbh\source\repos\DefencesCyberTest\DefencesCyberTest\bin\Debug\net8.0\DefencesCyberTest.pdb
+C:\Users\relbh\source\repos\DefencesCyberTest\DefencesCyberTest\obj\Debug\net8.0\DefencesCyberTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\relbh\source\repos\DefencesCyberTest\DefencesCyberTest\obj\Debug\net8.0\DefencesCyberTest.AssemblyInfoInputs.cache
+C:\Users\relbh\source\repos\DefencesCyberTest\DefencesCyberTest\obj\Debug\net8.0\DefencesCyberTest.AssemblyInfo.cs
+C:\Users\relbh\source\repos\DefencesCyberTest\DefencesCyberTest\obj\Debug\net8.0\DefencesCyberTest.csproj.CoreCompileInputs.cache
+C:\Users\relbh\source\repos\DefencesCyberTest\DefencesCyberTest\obj\Debug\net8.0\DefencesCyberTest.dll
+C:\Users\relbh\source\repos\DefencesCyberTest\DefencesCyberTest\obj\Debug\net8.0\refint\DefencesCyberTest.dll
+C:\Users\relbh\source\repos\DefencesCyberTest\DefencesCyberTest\obj\Debug\net8.0\DefencesCyberTest.pdb
+C:\Users\relbh\source\repos\DefencesCyberTest\DefencesCyberTest\obj\Debug\net8.0\DefencesCyberTest.genruntimeconfig.cache
+C:\Users\relbh\source\repos\DefencesCyberTest\DefencesCyberTest\obj\Debug\net8.0\ref\DefencesCyberTest.dll
