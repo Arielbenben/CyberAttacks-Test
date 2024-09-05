@@ -11,11 +11,17 @@ namespace DefencesCyberTest
 
             BinaryTree defencesTree = TreeUtils.AddDefencesBinaryTree(allDefences!);
 
+            await Task.Delay(4000);
+
             List<NodeValue>? allTreePreOrder = defencesTree.PreOrderTraversal();
 
             Loger.PrintDefencesTreeByPreOrder(allTreePreOrder);
 
+            await Task.Delay(4000);
+
             List<ThreatModel>? allThreats = JsonUtils.GetAllThreats();
+
+            await Task.Delay(4000);
 
             await DefenceUtils.TurnOnDefenceOnAllTherat(defencesTree, allThreats!);
 

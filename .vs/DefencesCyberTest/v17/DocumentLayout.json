@@ -74,8 +74,7 @@
               "RelativeToolTip": "DefencesCyberTest\\Utils\\Loger.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T14:21:04.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T14:21:04.122Z"
             },
             {
               "$type": "Document",
@@ -87,8 +86,7 @@
               "RelativeToolTip": "DefencesCyberTest\\Utils\\TreeUtils.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T14:09:38.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T14:09:38.123Z"
             },
             {
               "$type": "Document",
@@ -100,8 +98,7 @@
               "RelativeToolTip": "DefencesCyberTest\\Utils\\DefenceUtils.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T13:08:32.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T13:08:32.366Z"
             },
             {
               "$type": "Document",
@@ -113,21 +110,19 @@
               "RelativeToolTip": "DefencesCyberTest\\Utils\\ThreatUtils.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T11:42:21.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T11:42:21.077Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "DefencesCyberTest",
+              "Title": "DefencesCyberTest.csproj",
               "DocumentMoniker": "C:\\Users\\relbh\\source\\repos\\DefencesCyberTest\\DefencesCyberTest\\DefencesCyberTest.csproj",
               "RelativeDocumentMoniker": "DefencesCyberTest\\DefencesCyberTest.csproj",
               "ToolTip": "C:\\Users\\relbh\\source\\repos\\DefencesCyberTest\\DefencesCyberTest\\DefencesCyberTest.csproj",
               "RelativeToolTip": "DefencesCyberTest\\DefencesCyberTest.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-05T09:03:24.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T09:03:24.642Z"
             },
             {
               "$type": "Document",
@@ -139,8 +134,7 @@
               "RelativeToolTip": "DefencesCyberTest\\threats.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-05T11:33:06.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T11:33:06.106Z"
             },
             {
               "$type": "Document",
@@ -152,8 +146,7 @@
               "RelativeToolTip": "DefencesCyberTest\\defenceStrategiesBalanced.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-05T10:16:07.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T10:16:07.86Z"
             },
             {
               "$type": "Document",
@@ -165,8 +158,7 @@
               "RelativeToolTip": "DefencesCyberTest\\Utils\\JsonUtils.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAqwCEAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T10:13:14.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T10:13:14.64Z"
             },
             {
               "$type": "Document",
@@ -178,8 +170,7 @@
               "RelativeToolTip": "DefencesCyberTest\\Models\\DefenceModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T08:22:45.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T08:22:45.34Z"
             },
             {
               "$type": "Document",
@@ -191,8 +182,7 @@
               "RelativeToolTip": "DefencesCyberTest\\Models\\Threats.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T08:18:18.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T08:18:18.959Z"
             },
             {
               "$type": "Document",
@@ -204,8 +194,7 @@
               "RelativeToolTip": "DefencesCyberTest\\Models\\ThreatModel.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAgwBYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T08:16:32.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T08:16:32.77Z"
             },
             {
               "$type": "Document",
@@ -217,8 +206,7 @@
               "RelativeToolTip": "DefencesCyberTest\\Models\\BinaryTree.cs",
               "ViewState": "AQIAAIQAAAAAAAAAAAAowMwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T08:09:55.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T08:09:55.602Z"
             },
             {
               "$type": "Document",
@@ -228,7 +216,7 @@
               "RelativeDocumentMoniker": "DefencesCyberTest\\Program.cs",
               "ToolTip": "C:\\Users\\relbh\\source\\repos\\DefencesCyberTest\\DefencesCyberTest\\Program.cs",
               "RelativeToolTip": "DefencesCyberTest\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T08:09:33.849Z",
               "EditorCaption": ""
